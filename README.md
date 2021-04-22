@@ -90,6 +90,8 @@ Genesis
 
 Intellivision
 
+LowRes NX 
+
 Mame 2003
 
 Mame 2010
@@ -97,6 +99,8 @@ Mame 2010
 Master System
 
 Megadrive
+
+MegaCD
 
 MSX
 
@@ -122,6 +126,8 @@ Nintendo 3DS
 
 Odyssey2
 
+PC/Dos
+
 PC98
 
 PC Engine
@@ -129,6 +135,8 @@ PC Engine
 PC Engine CD
 
 PC-FX
+
+pico-8 
 
 Pokemon Mini
 
@@ -139,6 +147,8 @@ PlayStation
 PlayStation Portable
 
 Playstation Portable Minis
+
+ResidualVM
 
 RetroArch
 
@@ -151,6 +161,8 @@ Sega 32X
 Sega CD
 
 Sega Saturn
+
+sc-3000 
 
 SG 1000
 
@@ -193,15 +205,3 @@ WonderSwan Color
 ZX Spectrum
 
 Sinclair ZX81
-
-LowRes NX
-
-sc-3000
-
-pc
-
-pico-8
-
-residualvm
-
-megacd
