@@ -20,8 +20,8 @@ The recommended Gamelist View Style is "Video"
 ---
   
 # Credits: 
-Most of systems: https://github.com/RiseAgainst88
-Fixes + missing systems: Szalik
+- Most of systems: https://github.com/RiseAgainst88
+- Fixes + missing systems: Szalik
 
 ---
   
